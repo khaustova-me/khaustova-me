@@ -4,20 +4,61 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an AI Research Engineer at [Eyes, JAPAN, Co. Ltd](https://www.nowhere.co.jp/) and hold a Ph.D. in Computer Science and Engineering from the [University of Aizu, Japan](https://www.u-aizu.ac.jp/en/) (2024), supervised by Prof. Evgeny Pyshkin.
+
+My research focuses on computational approaches to speech prosody analysis and second language pronunciation training. Through my doctoral work on computer-assisted pronunciation training (CAPT) systems, I developed methods for analyzing suprasegmental features using machine learning and signal processing, with emphasis on personalized assessment for learners from diverse L1 backgrounds. My current work extends this foundation to voice conversion technology for pronunciation training, as well as AI-powered training systems for aviation and health education.
+
+Previously, I earned a BSc in Air Traffic Control and Flight Support from the Belarusian State Academy of Aviation (2017).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Speech Prosody Analysis:** suprasegmental feature extraction, prosody visualization, dynamic assessment
+- **Computer-Assisted Pronunciation Training (CAPT):** personalized feedback, accent classification, L2 pronunciation assessment
+- **Voice Conversion:** preserving speaker identity while modifying pronunciation
+- **ASR for Specialized Domains:** automatic speech recognition for air traffic control and pilot communications
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2025]** New paper on Japanese ATC communication corpus at the 159th Audio Engineering Society Convention.
+- **[Mar. 2024]** Paper on multimodal exercises in iCAPT systems presented at INTED2024.
+- **[Mar. 2024]** Completed my Ph.D. at the University of Aizu!
+- **[Nov. 2023]** Presented "CAPTuring Accents" at SPECOM 2023.
+- **[Sept. 2022]** Paper on accent classification presented at Interspeech 2022.
 
-{% include_relative _includes/publications.md %}
+## Scholarships & Awards
 
-{% include_relative _includes/services.md %}
+- **MEXT Scholarship** from the Japanese Government (October 2017 – March 2024).
+- **Aizu Area Foundation for the Promotion of Education and Science Award** (2020).
+
+## Service & Activities
+
+- Student volunteer at **AAAI Conference** (Honolulu 2019, New York 2020, Vancouver 2024).
+- Assistant organizer at **ICAIT Conference** (Aizuwakamatsu, 2018).
+
+## Publications
+
+_Note: name changed in March 2023 from Veranika Mikhailava to Veronica Khaustova._
+
+#### Journal Publications
+
+1. Blake, J., Bogach, N., Kusakari, A., Lezhenin, I., **Khaustova, V.**, Xuan, S. L., & Pyshkin, E. (2024). An Open CAPT System for Prosody Practice: Practical Steps towards Multilingual Setup. *Languages*, 9(1), 27. [DOI](https://doi.org/10.3390/languages9010027)
+
+1. **Mikhailava, V.**, Lesnichaia, M., Bogach, N., Lezhenin, I., Blake, J., & Pyshkin, E. (2022). Language Accent Detection with CNN Using Sparse Data from a Crowd-Sourced Speech Archive. *Mathematics*, 10(16), 2913. [DOI](https://doi.org/10.3390/math10162913)
+
+#### Conference Publications
+
+1. Tang, L.; **Khaustova, V.**; Villegas, J. (2025, October). Construction of a Japanese air traffic control communication corpus assisted with automatic speech recognition. In *Proc. 159 Audio Eng. Soc. Conv.*
+
+1. Pyshkin, E., Blake, J., **Khaustova, V.**, Lezhenin, I., Svechnikov, R., Efimov, D., Bogach, N. (2024, March). Multimodal Contextualizing and Targeting Exercises in iCAPT Systems. *INTED2024*. [DOI](https://doi.org/10.21125/inted.2024)
+
+1. **Khaustova, V.**, Pyshkin, E., Khaustov, V., Blake, J., & Bogach, N. (2023, November). CAPTuring Accents: An Approach to Personalize Pronunciation Training for Learners with Different L1 Backgrounds. In *International Conference on Speech and Computer* (pp. 59–70). Springer Nature Switzerland. [DOI](https://doi.org/10.1007/978-3-031-48309-7_5)
+
+1. Lesnichaia, M., **Mikhailava, V.**, Bogach, N., Lezhenin, I., Blake, J., & Pyshkin, E. (2022, September). Classification of Accented English Using CNN Model Trained on Amplitude Mel-Spectrograms. *Proc. Interspeech 2022*, 3669–3673. [DOI](https://doi.org/10.21437/Interspeech.2022-10730)
+
+1. **Mikhailava, V.**, Blake, J., Pyshkin, E., Bogach, N., Chernonog, S., Zhuikov, A., Lesnichaya, M., Lezhenin, I., & Svechnikov, R. (2022, May). Dynamic Assessment during Suprasegmental Training with Mobile CAPT. In *Proc. Speech Prosody* (Vol. 2022, pp. 430–434). [DOI](https://doi.org/10.21437/SpeechProsody.2022-88)
+
+1. **Mikhailava, V.**, Pyshkin, E., Blake, J., Chernonog, S., Lezhenin, I., Svechnikov, R., & Bogach, N. (2022, March). Tailoring computer-assisted pronunciation teaching: Mixing and matching the mode and manner of feedback to learners. In *INTED2022 Proceedings* (pp. 767–773). IATED. [DOI](https://doi.org/10.21125/inted.2022.0253)
+
+1. **Mikhailava, V.**, Pyshkin, E., & Klyuev, V. (2020, February). Aesthetic evaluation of food plate images using deep learning. In *2020 22nd International Conference on Advanced Communication Technology (ICACT)* (pp. 285–289). IEEE. [DOI](https://doi.org/10.23919/ICACT48636.2020.9061246)
+
+1. **Mikhailava, V.**, Khaustov, V., & Klyuev, V. (2018, November). Overview and Categorization of Recent Approaches to Microblog Classification. In *Proceedings of the 3rd International Conference on Applications in Information Technology* (pp. 127–130). [DOI](https://doi.org/10.1145/3274856.3274878)
