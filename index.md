@@ -6,9 +6,8 @@ layout: homepage
 
 I am an AI Research Engineer at [Eyes, JAPAN, Co. Ltd](https://www.nowhere.co.jp/) and hold a Ph.D. in Computer Science and Engineering from the [University of Aizu, Japan](https://www.u-aizu.ac.jp/en/) (2024).
 
-My research focuses on the intersection of speech technology, machine learning, and language education. During my doctoral work, I developed computational approaches to speech prosody analysis and computer-assisted pronunciation training (CAPT), with a focus on personalized assessment for learners from diverse first-language backgrounds. This included methods for suprasegmental feature extraction, accent classification using deep learning, and dynamic pronunciation feedback. My current work extends this foundation to voice conversion for pronunciation training and domain-specific speech recognition for aviation communication. Across these areas, I am driven by a shared question — how can we design speech technologies that work reliably across speakers with varied linguistic backgrounds and give people meaningful guidance to support their growth?
-
-I am always open to conversations and collaborations that cross disciplinary boundaries, and I find the most interesting work tends to happen where different fields meet unexpectedly.
+My research focuses on the intersection of speech technology, machine learning, and language education. My doctoral work centered on computational approaches to speech prosody analysis and computer-assisted pronunciation training (CAPT) with personalized assessment for learners from diverse first-language backgrounds. Currently, I work on voice conversion for pronunciation training and domain-specific speech recognition for aviation communication.
+I am always open to conversations and collaborations that cross disciplinary boundaries.
 
 Previously, I earned a BSc in Air Traffic Control and Flight Support from the Belarusian State Academy of Aviation (2017).
 
